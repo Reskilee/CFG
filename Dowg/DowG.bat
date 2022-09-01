@@ -9,4 +9,4 @@ xcopy main\CFG-main\* "C:\Program Files (x86)\Steam\steamapps\common\Counter-Str
 
 DEL main.zip execute.ps1
 
-#rmdir main /S /Q
+rmdir main /S /Q
